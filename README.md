@@ -1,3 +1,3 @@
-Hi I am Juri and I don't have a life 
+The future looks bright from my POV 
 # CLI LOVE | Simulation Architect | Systems Thinker | VIM motions 
 
