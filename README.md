@@ -1,2 +1,1 @@
-The future looks bright from my POV 
-
+like spending time in front of my computer
