@@ -1,1 +1,1 @@
-Computer has the power to silence the voices in my head
+the computer has the ability to silence my voices inside of my head
