@@ -1,1 +1,1 @@
-like spending time in front of my computer 
+Computer has the power to silence the voices in my head
