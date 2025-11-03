@@ -1,4 +1,2 @@
-Code has the ability to silence the voice livin in my head | 19y | Singapore/Bern
+Code has the ability to silence the voice livin in my head 
 
-
-currently focusing on algotrading
