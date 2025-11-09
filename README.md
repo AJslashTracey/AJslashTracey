@@ -1,2 +1,1 @@
-Code has the ability to silence the voice livin in my head 
-
+Like my computer
