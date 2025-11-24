@@ -1,1 +1,1 @@
-Like my computer 
+This is just the opening chapter.
