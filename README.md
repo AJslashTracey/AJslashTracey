@@ -1,1 +1,1 @@
-# Fighting the market
+## ALGOTRADING pursuit 
