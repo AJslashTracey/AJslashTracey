@@ -1,1 +1,1 @@
-## ALGOTRADING pursuit 
+## Automation via code for trading
