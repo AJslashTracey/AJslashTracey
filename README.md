@@ -1,14 +1,6 @@
 <div align="center">
-  <table role="presentation" width="100%" style="border-collapse:collapse;border-spacing:0;border:none;">
-    <tr style="border:none;">
-      <td width="50%" align="center" style="padding:0;border:none;">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkwdGhydXVocG9rOHBydHRsdWpjeDhjZWxwbDZzOTdodnFqOHR4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uHo3T7P0YX7Ec/giphy.gif" alt="External gif" width="100%" height="300" style="display:block;object-fit:cover;">
-      </td>
-      <td width="50%" align="center" style="padding:0;border:none;">
-        <img src="./github_video.gif" alt="Local project gif" width="100%" height="300" style="display:block;object-fit:cover;">
-      </td>
-    </tr>
-  </table>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkwdGhydXVocG9rOHBydHRsdWpjeDhjZWxwbDZzOTdodnFqOHR4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uHo3T7P0YX7Ec/giphy.gif" alt="External gif" width="49.5%" height="300" style="display:inline-block;vertical-align:top;object-fit:cover;margin:0;">
+  <img src="./github_video.gif" alt="Local project gif" width="49.5%" height="300" style="display:inline-block;vertical-align:top;object-fit:cover;margin:0;">
 
   <br>
   <b><i>Automation via code for trading</i></b>
