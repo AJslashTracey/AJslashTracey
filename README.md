@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkwdGhydXVocG9rOHBydHRsdWpjeDhjZWxwbDZzOTdodnFqOHR4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uHo3T7P0YX7Ec/giphy.gif" alt="External gif" width="49.5%" height="300" style="display:inline-block;vertical-align:top;object-fit:cover;margin:0;">
-  <img src="./github_video.gif" alt="Local project gif" width="49.5%" height="300" style="display:inline-block;vertical-align:top;object-fit:cover;margin:0;">
+  <div style="font-size:0;line-height:0;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkwdGhydXVocG9rOHBydHRsdWpjeDhjZWxwbDZzOTdodnFqOHR4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uHo3T7P0YX7Ec/giphy.gif" alt="External gif" style="display:inline-block;width:50%;height:300px;object-fit:cover;vertical-align:top;">
+    <img src="./github_video.gif" alt="Local project gif" style="display:inline-block;width:50%;height:300px;object-fit:cover;vertical-align:top;">
+  </div>
 
   <br>
   <b><i>Automation via code for trading</i></b>
