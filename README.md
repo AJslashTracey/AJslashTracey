@@ -1,7 +1,5 @@
 <div align="center">
-  <div style="font-size:0;line-height:0;">
-    <img src="./github_video.gif" alt="Local project gif" style="display:inline-block;width:50%;height:300px;object-fit:cover;vertical-align:top;">
-  </div>
+  <img src="./github_video.gif" alt="Local project gif" width="90%" style="max-width:900px;height:auto;display:block;margin:0 auto;">
 
   <br>
   <b><i>Automation via code for trading</i></b>
