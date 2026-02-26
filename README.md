@@ -3,5 +3,5 @@
   <br><br>
   <b><i>Automation via code for trading</i></b>
   <br><br>
-  <a href="https://x.com/AJTraceyBTC">X</a> for updates
+  <a href="https://x.com/AJTraceyBTC" target="_blank">X</a> for updates
 </div>
