@@ -1,6 +1,6 @@
 <div align="center">
 
   <br>
-  <b><i>I sell data</i></b>
+  <b><i>I look at data</i></b>
   <br><br>
 </div>
